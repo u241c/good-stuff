@@ -1,4 +1,4 @@
-# Good Stuff is a project for developers to contribute to. You can add whatever you'd like as long as it's not obscene, try to keep it positive, and wholesome.
+# Good Stuff is a project for developers to contribute to. You can add whatever you'd like as long as it's not obscene. Let me know if you have any questions, and please do something similar so more people can contribute to different projects.
 
 ## Contribute to this repository
 
