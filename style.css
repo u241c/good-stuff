@@ -3,10 +3,31 @@
 }
 
 body {
-  background-color: aqua;
+  background-color: rgb(215, 218, 189);
+}
+
+.heading-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2em;
+}
+
+.images-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2em;
 }
 
 .coffee-image {
   width: 300px;
   height: 400px;
+  margin: 1em;
+}
+
+.vibes-image {
+  width: 500px;
+  height: 400px;
+  margin: 1em;
 }
