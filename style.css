@@ -5,7 +5,11 @@
 body {
   background-color: rgb(215, 218, 189);
 }
-
+.heading {
+  font-family: "Sigmar One", cursive;
+  color: rgb(168, 126, 126);
+  font-size: 3rem;
+}
 .heading-container {
   display: flex;
   align-items: center;
